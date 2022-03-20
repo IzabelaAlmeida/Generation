@@ -2,6 +2,14 @@
 Estilos da página index.html e contato.html
 */
 
+h1{
+text-align: center;
+}
+
+h2{
+    text-align: center;
+
+}
 .center{
     text-align: center;
 }
